@@ -1,0 +1,47 @@
+2025-11-25 19:47:52,693 - Starting projector training on 4090 with optimizations
+2025-11-25 19:47:52,693 - Parsing model identifier. Schema: None, Identifier: ViT-bigG-14
+2025-11-25 19:47:52,694 - Loaded built-in ViT-bigG-14 model config.
+2025-11-25 19:47:52,694 - No potential checkpoint path found from config source or pretrained arg.
+2025-11-25 19:47:52,694 - Instantiating model architecture: CLIP
+2025-11-25 19:48:12,298 - No pretrained weights loaded for model 'ViT-bigG-14'. Model initialized randomly.
+2025-11-25 19:48:12,298 - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-25 19:48:12,298 - Model ViT-bigG-14 creation process complete.
+2025-11-25 19:49:15,617 - Starting projector training on 4090 with optimizations
+2025-11-25 19:49:15,617 - Parsing model identifier. Schema: None, Identifier: ViT-bigG-14
+2025-11-25 19:49:15,617 - Loaded built-in ViT-bigG-14 model config.
+2025-11-25 19:49:15,617 - No potential checkpoint path found from config source or pretrained arg.
+2025-11-25 19:49:15,617 - Instantiating model architecture: CLIP
+2025-11-25 19:49:35,964 - No pretrained weights loaded for model 'ViT-bigG-14'. Model initialized randomly.
+2025-11-25 19:49:35,964 - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-25 19:49:35,965 - Model ViT-bigG-14 creation process complete.
+2025-11-25 19:50:35,157 - Starting projector training on 4090 with optimizations
+2025-11-25 19:50:35,157 - Parsing model identifier. Schema: None, Identifier: ViT-bigG-14
+2025-11-25 19:50:35,157 - Loaded built-in ViT-bigG-14 model config.
+2025-11-25 19:50:35,157 - No potential checkpoint path found from config source or pretrained arg.
+2025-11-25 19:50:35,157 - Instantiating model architecture: CLIP
+2025-11-25 19:50:54,921 - No pretrained weights loaded for model 'ViT-bigG-14'. Model initialized randomly.
+2025-11-25 19:50:54,922 - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-25 19:50:54,922 - Model ViT-bigG-14 creation process complete.
+2025-11-25 19:50:57,156 - BigG model loaded, dim=1280
+2025-11-25 19:50:58,108 - Started training: 100k samples, batch=8, epochs=1, estimated 1-2h on 4090
+2025-11-25 19:51:00,014 - Epoch 0, batch 1, loss: 1.2498
+2025-11-25 19:56:54,774 - Starting projector training on 4090
+2025-11-25 19:56:54,774 - Parsing model identifier. Schema: None, Identifier: ViT-bigG-14
+2025-11-25 19:56:54,774 - Loaded built-in ViT-bigG-14 model config.
+2025-11-25 19:56:54,774 - No potential checkpoint path found from config source or pretrained arg.
+2025-11-25 19:56:54,774 - Instantiating model architecture: CLIP
+2025-11-25 19:57:14,508 - No pretrained weights loaded for model 'ViT-bigG-14'. Model initialized randomly.
+2025-11-25 19:57:14,509 - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-25 19:57:14,509 - Model ViT-bigG-14 creation process complete.
+2025-11-25 19:57:41,593 - Starting projector training on 4090
+2025-11-25 19:57:41,594 - Parsing model identifier. Schema: None, Identifier: ViT-bigG-14
+2025-11-25 19:57:41,594 - Loaded built-in ViT-bigG-14 model config.
+2025-11-25 19:57:41,594 - No potential checkpoint path found from config source or pretrained arg.
+2025-11-25 19:57:41,594 - Instantiating model architecture: CLIP
+2025-11-25 19:58:01,616 - No pretrained weights loaded for model 'ViT-bigG-14'. Model initialized randomly.
+2025-11-25 19:58:01,616 - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-25 19:58:01,616 - Model ViT-bigG-14 creation process complete.
+2025-11-25 19:58:04,799 - Model loaded, dim=1280
+2025-11-25 19:58:05,605 - Full dataset size: 591753
+2025-11-25 19:58:05,696 - Subsampled dataset size: 100000, steps/epoch: 12500
+2025-11-25 19:58:07,807 - Epoch 0, Batch 1, loss=1.4412

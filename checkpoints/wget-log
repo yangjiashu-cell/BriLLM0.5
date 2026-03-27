@@ -1,0 +1,4 @@
+--2025-11-20 11:36:44--  https://huggingface.co/BriLLM/BriLLM0.5/resolve/main/wiki_bpe_tokenizer_4000_bytelevel.json
+Resolving huggingface.co (huggingface.co)... 98.159.108.58, 2a03:2880:f130:83:face:b00c:0:25de
+Connecting to huggingface.co (huggingface.co)|98.159.108.58|:443... failed: Connection timed out.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f130:83:face:b00c:0:25de|:443... failed: Network is unreachable.

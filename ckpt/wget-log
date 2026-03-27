@@ -1,0 +1,4 @@
+--2025-11-19 18:22:21--  https://huggingface.co/BriLLM/BriLLM0.5/resolve/main/model_en.bin
+Resolving huggingface.co (huggingface.co)... 104.244.43.52, 2a03:2880:f12c:83:face:b00c:0:25de
+Connecting to huggingface.co (huggingface.co)|104.244.43.52|:443... failed: Connection timed out.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f12c:83:face:b00c:0:25de|:443... failed: Network is unreachable.
