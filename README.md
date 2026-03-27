@@ -2,11 +2,7 @@
 
 We release BriLLM-Chinese and BriLLM-English.
 
-Our paper: https://arxiv.org/pdf/2503.11299
 
-Our Github: https://github.com/brillm05/BriLLM0.5
-
-Our huggingface: https://huggingface.co/BriLLM/BriLLM0.5
 
 
 ## Overview
