@@ -1,11 +1,5 @@
 # BriLLM: Brain-inspired Large Language Model
 
-We release BriLLM-Chinese and BriLLM-English.
-
-
-
-
-## Overview
 
 BriLLM redefines the foundations of generative language modeling by departing from Transformer architectures, GPT frameworks, and traditional input-output constrained paradigms. Built on the Signal Fully-connected flowing (SiFu) mechanism—a directed graph-based neural network design—BriLLM enables full interpretability across all nodes, in contrast to conventional models limited to input-output interpretability.
 
